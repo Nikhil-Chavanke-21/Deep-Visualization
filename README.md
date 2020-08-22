@@ -1,7 +1,10 @@
 # Deep-Visualization
 This is a code for vizualizing how convolutional neural networks funtion and perform the Classification and Detection Tasks.
+
 Basically there is a class visualize.
+
 You can initialize the class using any pretrained networks which are available in pytorch.
+
 Ex:  model=models.alexnet(pretrained=True)
      device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
      v=visualize(model, device)
