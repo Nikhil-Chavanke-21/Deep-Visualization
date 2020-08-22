@@ -4,7 +4,9 @@
 Basically there is a class visualize. You can initialize the class using any pretrained networks which are available in pytorch.
 
 Ex:  model=models.alexnet(pretrained=True)
+
      device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
+     
      v=visualize(model, device)
 Here we are using alexnet, you can use any other network as vgg16.
 There are 2 methods callable methods:
