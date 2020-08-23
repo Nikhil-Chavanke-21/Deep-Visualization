@@ -40,7 +40,7 @@ This is the deconvolutionalized image from that activation.
 
 ![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/deconv)
 
-Here we can see eye like patterns, so such patterns produce high activations for that filter.
+Here we can see eye and eyebrow like patterns, so such patterns produce high activations for that filter.
 
 ![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/pattern)
 
