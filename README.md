@@ -28,8 +28,16 @@ This method construct a image/patterns, such that the image that maximizes activ
 
 Lets see an example:
 
-We pass the below image to visualize.
-![dfdssdcsac](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/face.jpeg)
+We pass this image to visualize.
+![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/face.jpeg)
+This are the activation for filter 88 of conv. layer 3 alexnet. We can see that this filter detects the eye.
+![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/pattern)
+This is the deconvolutionalized image from that activation.
+![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/deconv)
+Here we can see eye like patterns, so such patterns produce high activations for that filter.
+![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/activation)
+
+
 
 
 ## References
