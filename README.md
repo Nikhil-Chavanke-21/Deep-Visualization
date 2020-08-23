@@ -34,7 +34,7 @@ We pass this image to visualize.
 
 This are the activation for filter 88 of conv. layer 3 alexnet. We can see that this filter detects the eye.
 
-![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/pattern)
+![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/activation)
 
 This is the deconvolutionalized image from that activation.
 
@@ -42,7 +42,7 @@ This is the deconvolutionalized image from that activation.
 
 Here we can see eye like patterns, so such patterns produce high activations for that filter.
 
-![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/activation)
+![](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/pattern)
 
 ## References
 [Zeiler and Fergus(DeconvNet)](https://arxiv.org/abs/1311.2901)
