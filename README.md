@@ -29,7 +29,7 @@ This method construct a image/patterns, such that the image that maximizes activ
 Lets see an example:
 
 We pass the below image to visualize.
-
+![dfdssdcsac](https://github.com/Nikhil-Chavanke-21/Deep-Visualization/blob/master/data/face.jpeg)
 
 
 ## References
