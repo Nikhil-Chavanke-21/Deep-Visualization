@@ -46,5 +46,6 @@ Here we can see eye and eyebrow like patterns, so such patterns produce high act
 
 ## References
 [Zeiler and Fergus(DeconvNet)](https://arxiv.org/abs/1311.2901)
+
 [Understanding Deep Neural Networks](https://arxiv.org/abs/1506.06579)
 
